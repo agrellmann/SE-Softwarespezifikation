@@ -2,5 +2,12 @@
 
 [User Stories](UserStories.md ':include')
 
-## UseCase Diagramm
+## Szenarien
+
+### UseCase Diagramm
 ![UseCase Diagramm](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/UseCaseFindMe.svg)
+
+## Physikalische Sicht
+
+### Verteilungsdiagramm
+![Verteilungsdiagramm](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/VerteilungFindMe.svg)
