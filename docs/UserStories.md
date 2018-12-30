@@ -1,4 +1,4 @@
-# User Stories
+## User Stories
 
 In diesem Abschnitt stehen die, aus dem Vorgabedokument extrahierten, User Stories und evtl. Akzeptanzkriterien.
 
