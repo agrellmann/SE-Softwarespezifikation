@@ -5,10 +5,10 @@ In diesem Abschnitt stehen die, aus dem Vorgabedokument extrahierten, User Stori
 * Als Benutzer möchte ich auf der Plattform mit anderen Benutzern in Kontakt treten, um neue Bekanntschaften oder Freundschaften zu bilden.
 * Als Benutzer möchte ich mich auf der Plattform anmelden können, um diese zu benutzen.
 * Als Benutzer möchte ich meine Profildaten anzupassen, um mein Profil an mich anzupassen.
-* Als Benutzer möchte ich meine Nachrichten lesen, um mit anderen Benutzern zu kommunizieren.
+* Als Benutzer möchte ich meine Nachrichten lesen und schreiben, um mit anderen Benutzern zu kommunizieren.
 * Als Benutzer möchte ich meine Präferenzen angeben, um andere Benutzer zu suchen, die diesen entsprechen.
 * Als Benutzer möchte ich mit diesen Präferenzen eine manuelle Suche durchführen, um mir eine Liste mit vorgeschlagenen Benutzern anzeigen zu lassen.
-	*Die Suche darf maximal 2ms dauern.
+	* Die Suche darf maximal 2ms dauern.
 	* Es kann auch nach einzelnen Präferenzen gesucht werden.
 * Als Benutzer möchte ich meine Erlaubnis zur Einsicht meiner Daten erteilen, um meine Privatsphäre schützen zu können.
 * Als Benutzer möchte ich eine Liste mit vorgeschlagenen Personen bekommen, die meinen Präferenzen entsprechen, um mich mich neuen Benutzern zu verbinden.
