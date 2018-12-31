@@ -9,8 +9,10 @@
 
 ## Prozesssicht
 ### Aktivitätsdiagramme
-In diesem Abschnitt sind die Aktivitätsdiagramme zu den komplexeren Use-Cases.
-![Aktivitaetsdiagramme](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/AktivitaetFindMe.svg)
+In diesem Abschnitt sind die Aktivitätsdiagramme zu den komplexeren Use-Cases des UseCase Diagramms.  
+![MainClient](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/AktivitaetFindMe/MainClient.svg)
+![Anmelden](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/AktivitaetFindMe/Anmelden.svg)
+![Vorgeschlagende Benutzerliste ansehen](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/AktivitaetFindMe/vorgeschlagendeBenutzerlisteAnsehen.svg)
 
 ## Physikalische Sicht
 
