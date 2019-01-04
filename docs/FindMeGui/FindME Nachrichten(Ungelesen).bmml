@@ -1,0 +1,322 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1922" measuredH="1082" mockupW="1920" mockupH="1080">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="2" y="2" w="1920" h="1080" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>FindMe%0Ahttps%3A//www.find.me</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="6" y="72" w="1912" h="982" measuredW="1916" measuredH="982" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <src>./assets/WebBackground.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="453" y="72" w="1034" h="983" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="486" y="108" w="-1" h="-1" measuredW="233" measuredH="77" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>FindME%20Dash%26bm%3BFindME%20Dash.bmml%26bm%3BFindME%20Dash.bmml%26bm%3BFindME%20Dash.bmml</href>
+        <size>72</size>
+        <text>FindMe</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::SubTitle" x="744" y="146" w="-1" h="-1" measuredW="330" measuredH="31" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Der%20Gro%DFstadt-Singletreff</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::HRule" x="461" y="189" w="1002" h="-1" measuredW="100" measuredH="10" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <stroke>solid</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::SubTitle" x="486" y="215" w="-1" h="-1" measuredW="248" measuredH="43" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>Dein%20Postfach</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Icon" x="1329" y="128" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>FindME%20Einstellungen%26bm%3BFindME%20Einstellungen.bmml%26bm%3BFindME%20Einstellungen.bmml%26bm%3BFindME%20Einstellungen.bmml</href>
+        <icon>cog%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Icon" x="1407" y="128" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>FindME%20Home%26bm%3BFindME%20Home.bmml%26bm%3BFindME%20Home.bmml%26bm%3BFindME%20Home.bmml</href>
+        <icon>sign-out%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::RoundButton" x="1268" y="121" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16764142</color>
+        <href>FindME%20Nachrichten%28Ungelesen%29%26bm%3BFindME%20Nachrichten%28Ungelesen%29.bmml%26bm%3BFindME%20Nachrichten%28Ungelesen%29.bmml%26bm%3BFindME%20Nachrichten%28Ungelesen%29.bmml</href>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="1279" y="126" w="-1" h="-1" measuredW="10" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10027008</color>
+        <href>FindME%20Nachrichten%28Ungelesen%29%26bm%3BFindME%20Nachrichten%28Ungelesen%29.bmml%26bm%3BFindME%20Nachrichten%28Ungelesen%29.bmml%26bm%3BFindME%20Nachrichten%28Ungelesen%29.bmml</href>
+        <size>16</size>
+        <text>5</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Icon" x="1157" y="128" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>FindME%20Freunde%26bm%3BFindME%20Freunde.bmml%26bm%3BFindME%20Freunde.bmml%26bm%3BFindME%20Freunde.bmml</href>
+        <icon>user-o%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::RoundButton" x="1182" y="115" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16764142</color>
+        <href>FindME%20Freunde%26bm%3BFindME%20Freunde.bmml%26bm%3BFindME%20Freunde.bmml%26bm%3BFindME%20Freunde.bmml</href>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Label" x="1194" y="120" w="-1" h="-1" measuredW="10" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10027008</color>
+        <href>FindME%20Freunde%26bm%3BFindME%20Freunde.bmml%26bm%3BFindME%20Freunde.bmml%26bm%3BFindME%20Freunde.bmml</href>
+        <size>16</size>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::TabBar" x="486" y="265" w="968" h="710" measuredW="404" measuredH="100" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2CFindME%20Nachrichten%28Gelesen%29%26bm%3BFindME%20Nachrichten%28Gelesen%29.bmml%26bm%3BFindME%20Nachrichten%28Gelesen%29.bmml%26bm%3BFindME%20Nachrichten%28Gelesen%29.bmml%2CFindME%20Nachrichten%28Archiviert%29%26bm%3BFindME%20Nachrichten%28Archiviert%29.bmml%26bm%3BFindME%20Nachrichten%28Archiviert%29.bmml%26bm%3BFindME%20Nachrichten%28Archiviert%29.bmml%2C</hrefs>
+        <selectedIndex>0</selectedIndex>
+        <size>24</size>
+        <tabHPosition>left</tabHPosition>
+        <tabVPosition>top</tabVPosition>
+        <text>Ungelesen%2C%20Gelesen%2C%20Archiviert</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Button" x="826" y="990" w="273" h="48" measuredW="155" measuredH="48" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>FindME%20Dash%26bm%3BFindME%20Dash.bmml%26bm%3BFindME%20Dash.bmml%26bm%3BFindME%20Dash.bmml</href>
+        <menuIcon>false</menuIcon>
+        <size>40</size>
+        <text>Zur%FCck</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::HRule" x="495" y="369" w="949" h="-1" measuredW="100" measuredH="10" zOrder="17" locked="false" isInGroup="-1"/>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::VRule" x="775" y="308" w="-1" h="61" measuredW="10" measuredH="100" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Icon" x="505" y="309" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>comment%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::RoundButton" x="530" y="308" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Icon" x="538" y="316" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>plus%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Icon" x="1244" y="128" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>FindME%20Nachrichten%28Ungelesen%29%26bm%3BFindME%20Nachrichten%28Ungelesen%29.bmml%26bm%3BFindME%20Nachrichten%28Ungelesen%29.bmml%26bm%3BFindME%20Nachrichten%28Ungelesen%29.bmml</href>
+        <icon>comment-o%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Icon" x="581" y="311" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>archive%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Icon" x="647" y="311" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>trash%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Image" x="801" y="310" w="55" h="57" measuredW="300" measuredH="300" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>./assets/Profilbild.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Icon" x="711" y="314" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <href>FindME%20Nachrichten%28Ungelesen%29%28Meldung%29%26bm%3BFindME%20Nachrichten%28Ungelesen%29%28Meldung%29.bmml%26bm%3BFindME%20Nachrichten%28Ungelesen%29%28Meldung%29.bmml%26bm%3BFindME%20Nachrichten%28Ungelesen%29%28Meldung%29.bmml</href>
+        <icon>flag-o%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Image" x="872" y="310" w="55" h="57" measuredW="300" measuredH="300" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>./assets/Profilbild.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Image" x="943" y="310" w="55" h="57" measuredW="300" measuredH="300" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>./assets/Profilbild.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::RoundButton" x="835" y="305" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16764142</color>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="846" y="310" w="-1" h="-1" measuredW="11" measuredH="24" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>16</size>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::RoundButton" x="905" y="305" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16764142</color>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Label" x="916" y="310" w="-1" h="-1" measuredW="11" measuredH="24" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>16</size>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::RoundButton" x="975" y="305" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16764142</color>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="987" y="310" w="-1" h="-1" measuredW="10" measuredH="24" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10027008</color>
+        <size>16</size>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Canvas" x="801" y="310" w="56" h="59" measuredW="100" measuredH="70" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.25</backgroundAlpha>
+        <borderColor>16777215</borderColor>
+        <borderStyle>none</borderStyle>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::TextArea" x="515" y="394" w="412" h="48" measuredW="200" measuredH="140" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10898809</borderColor>
+        <color>12745632</color>
+        <size>24</size>
+        <text>Nachricht</text>
+        <textColor>3355443</textColor>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Icon" x="495" y="410" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10898809</borderColor>
+        <color>10898809</color>
+        <icon>caret-left%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::TextArea" x="1005" y="462" w="412" h="48" measuredW="200" measuredH="140" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>0</borderColor>
+        <color>15658734</color>
+        <size>24</size>
+        <text>Nachricht%20zur%FCck</text>
+        <textColor>3355443</textColor>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Icon" x="1405" y="478" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>caret-right%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::TextArea" x="515" y="539" w="412" h="48" measuredW="200" measuredH="140" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10898809</borderColor>
+        <color>12745632</color>
+        <size>24</size>
+        <text>Nachricht%20nochmal</text>
+        <textColor>3355443</textColor>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Icon" x="495" y="555" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10898809</borderColor>
+        <color>10898809</color>
+        <icon>caret-left%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::TextArea" x="515" y="609" w="412" h="48" measuredW="200" measuredH="140" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10898809</borderColor>
+        <color>12745632</color>
+        <size>24</size>
+        <text>Nachricht%20nochmal%20x2</text>
+        <textColor>3355443</textColor>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Icon" x="495" y="625" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10898809</borderColor>
+        <color>10898809</color>
+        <icon>caret-left%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Icon" x="804" y="340" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+        <icon>caret-up%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::SearchBox" x="554" y="922" w="824" h="-1" measuredW="161" measuredH="40" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <microphoneIcon>true</microphoneIcon>
+        <searchIcon>false</searchIcon>
+        <size>28</size>
+        <text>Nachricht...</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Icon" x="496" y="917" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>smile-o%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Icon" x="1389" y="917" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>chevron-circle-right%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Canvas" x="489" y="910" w="960" h="62" measuredW="100" measuredH="70" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

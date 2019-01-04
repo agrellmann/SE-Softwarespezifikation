@@ -1,0 +1,145 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1922" measuredH="1082" mockupW="1920" mockupH="1080">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="2" y="2" w="1920" h="1080" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>FindMe%0Ahttps%3A//www.find.me</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="6" y="72" w="1912" h="982" measuredW="1916" measuredH="982" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <src>./assets/WebBackground.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="453" y="72" w="1034" h="982" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="486" y="108" w="-1" h="-1" measuredW="233" measuredH="77" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>FindME%20Fake-User-Dash%26bm%3BFindME%20Fake-User-Dash.bmml%26bm%3BFindME%20Fake-User-Dash.bmml%26bm%3BFindME%20Fake-User-Dash.bmml</href>
+        <size>72</size>
+        <text>FindMe</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::SubTitle" x="744" y="146" w="-1" h="-1" measuredW="330" measuredH="31" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Der%20Gro%DFstadt-Singletreff</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::HRule" x="461" y="189" w="1002" h="-1" measuredW="100" measuredH="10" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <stroke>solid</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="834" y="963" w="273" h="48" measuredW="245" measuredH="48" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>FindMe%20Profilinformationen%28Fake-User%29%26bm%3BFindMe%20Profilinformationen%28Fake-User%29.bmml%26bm%3BFindMe%20Profilinformationen%28Fake-User%29.bmml%26bm%3BFindMe%20Profilinformationen%28Fake-User%29.bmml</href>
+        <menuIcon>false</menuIcon>
+        <size>40</size>
+        <text>Registrieren</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::TextInput" x="486" y="344" w="435" h="-1" measuredW="155" measuredH="34" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <state>up</state>
+        <text>*Benutzername</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::TextInput" x="486" y="404" w="435" h="-1" measuredW="106" measuredH="34" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>*Passwort</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::SubTitle" x="486" y="215" w="-1" h="-1" measuredW="247" measuredH="43" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>40</size>
+        <text>Registrierung</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::SubTitle" x="486" y="266" w="-1" h="-1" measuredW="961" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bitte%20gib%20alle%20ben%F6tigten%20Informationen%20zu%20dir%20an%20und%20dr%FCcke%20Registrieren%20um%20beizutreten</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="486" y="464" w="435" h="-1" measuredW="221" measuredH="34" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>rectangle</borderStyle>
+        <size>20</size>
+        <text>*Passwort%20wiederholen</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::TextInput" x="486" y="524" w="208" h="-1" measuredW="104" measuredH="34" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>rectangle</borderStyle>
+        <size>20</size>
+        <text>*Vorname</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::TextInput" x="486" y="584" w="116" h="-1" measuredW="62" measuredH="34" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>rectangle</borderStyle>
+        <size>20</size>
+        <text>*PLZ</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::TextInput" x="711" y="524" w="210" h="-1" measuredW="119" measuredH="34" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>rectangle</borderStyle>
+        <size>20</size>
+        <text>*Nachname</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::TextInput" x="618" y="584" w="303" h="-1" measuredW="54" measuredH="34" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>rectangle</borderStyle>
+        <size>20</size>
+        <text>*Ort</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::DateChooser" x="486" y="644" w="435" h="-1" measuredW="186" measuredH="32" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>*Geburtsdatum</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Image" x="1051" y="328" w="300" h="300" measuredW="300" measuredH="300" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>./assets/Profilbild.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Button" x="1067" y="641" w="268" h="40" measuredW="266" measuredH="36" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Profilbild%20hochladen</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::StickyNote" x="634" y="784" w="240" h="123" measuredW="109" measuredH="123" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Weitere%20Einstellungen</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Switch" x="486" y="703" w="-1" h="-1" measuredW="42" measuredH="24" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <onOffState>on</onOffState>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="540" y="702" w="-1" h="-1" measuredW="479" measuredH="28" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Detaillierte%20Profilinfos%20sind%20nur%20f%FCr%20Freunde%20einsehbar</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
