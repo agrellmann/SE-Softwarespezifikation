@@ -7,7 +7,13 @@
 ### UseCase Diagramm
 ![UseCase Diagramm](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/UseCaseFindMe.svg)
 
+## Logische Sicht
+
+### Klassendiagramm
+![Klassendiagramm](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/KlassenFindMe.svg)
+
 ## Prozesssicht
+
 ### Aktivitätsdiagramme
 In diesem Abschnitt sind die Aktivitätsdiagramme zu den komplexeren Use-Cases des UseCase Diagramms.  
 ![MainClient](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/AktivitaetFindMe/MainClient.svg)
