@@ -18,7 +18,7 @@
 In diesem Abschnitt sind die Aktivitätsdiagramme zu den komplexeren Use-Cases des UseCase Diagramms.  
 ![MainClient](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/AktivitaetFindMe/MainClientKommunikation.svg)
 ![Anmelden](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/AktivitaetFindMe/Anmelden.svg)
-![Profil Erstellen] (https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/AktivitaetFindMe/ProfilErstellen.svg)
+![Profil Erstellen](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/AktivitaetFindMe/ProfilErstellen.svg)
 ![Vorgeschlagende Benutzerliste ansehen](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/AktivitaetFindMe/vorgeschlagendeBenutzerlisteAnsehen.svg)
 
 ## Physikalische Sicht
