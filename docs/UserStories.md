@@ -2,6 +2,8 @@
 
 In diesem Abschnitt stehen die, aus dem Vorgabedokument extrahierten, User Stories und evtl. Akzeptanzkriterien.
 
+### Textform
+
 * Als Benutzer möchte ich auf der Plattform mit anderen Benutzern in Kontakt treten, um neue Bekanntschaften oder Freundschaften zu bilden.
 * Als Benutzer möchte ich mich auf der Plattform anmelden können, um diese zu benutzen.
 * Als Benutzer möchte ich meine Profildaten anzupassen, um mein Profil an mich anzupassen.
@@ -23,3 +25,25 @@ In diesem Abschnitt stehen die, aus dem Vorgabedokument extrahierten, User Stori
 * Als Webseitenbetreiber möchte ich Fake-Benutzer haben, um mehr Funktionalität dynamisch auf der Webseite nachträglich hinzufügen zu können.
 * Als Fake-Benutzer möchte ich mehrere E-Mail Postfächer gelichzeitig einsehen können, um mehrere Kommunikationspfade zu haben.
 * Als Fake-Benutzer möchte ich mehrere Profile gleichzeitig löschen können, um den Benutzer wieder "aufzuräumen".
+
+### Tabellenform
+
+Als...             | möchte ich...                                                                        | um...
+------------------ | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------
+Benutzer           | auf der Plattform mit anderen Benutzern in Kontakt treten                            | neue Bekanntschaften oder Freundschaften zu bilden
+Benutzer           | mich auf der Plattform anmelden können                                               | diese zu benutzen
+Benutzer           | mich von der Plattform abmelden                                                      | diese nicht mehr zu benutzen
+Benutzer           | meine Profildaten anzupassen                                                         | mein Profil an mich anzupassen
+Benutzer           | meine Nachrichten lesen und schreiben                                                | mit anderen Benutzern zu kommunizieren
+Benutzer           | meine Präferenzen angeben                                                            | andere Benutzer zu suchen, die diesen entsprechen
+Benutzer           | mit diesen Präferenzen eine manuelle Suche durchführen                               | mir eine Liste mit vorgeschlagenen Benutzern anzeigen zu lassen
+Benutzer           | meine Erlaubnis zur Einsicht meiner Daten erteilen                                   | meine Privatsphäre schützen zu können
+Benutzer           | eine Liste mit vorgeschlagenen Personen bekommen, die meinen Präferenzen entsprechen | mich mich neuen Benutzern zu verbinden
+Benutzer           | andere Benutzer melden können                                                        | Fehlverhalten dieser einzuschränken
+Benutzer           | anderen Benutzern eine Freundschaftsanfrage senden können                            | eine Freundesliste führen zu können und mich mit diesen zu verbinden
+Administrator      | eine Liste der gemeldeten Benutzer sehen können                                      | diese einzelnt zu löschen
+Administrator      | einen Benutzer löschen                                                               | diesen von der Plattform zu entfernen
+Webseitenbetreiber | alle Daten sicher speichern und die Übertragung verschlüsseln                        | eine sichere Webseite zu schaffen
+Webseitenbetreiber | Fake-Benutzer haben                                                                  | mehr Funktionalität dynamisch auf der Webseite nachträglich hinzufügen zu können
+Fake-Benutzer      | mehrere E-Mail Postfächer gelichzeitig einsehen können                               | mehrere Kommunikationspfade zu haben
+Fake-Benutzer      | mehrere Profile gleichzeitig löschen können                                          | den Benutzer wieder "aufzuräumen"
