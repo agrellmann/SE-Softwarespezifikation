@@ -8,7 +8,7 @@
 ![UseCase Gesamt](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/UseCaseFindMe/UseCaseGesamt.svg)
 ![UseCase Kommunikation](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/UseCaseFindMe/UseCaseKommunikation.svg)
 ![UseCase Admin](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/UseCaseFindMe/UseCaseAdmin.svg)
-![UseCase Fake-User] (https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/UseCaseFindMe/UseCaseFake-User.svg)
+![UseCase Fake-User](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/UseCaseFindMe/UseCaseFake-User.svg)
 ![UseCase Suchen](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/UseCaseFindMe/UseCaseSuchen.svg)
 
 ## Logische Sicht
