@@ -1,7 +1,7 @@
 # Software Engineering Softwarespezifikation
 
 Dies ist die Ausarbeitung zu der zweiten Software Engineering Aufgabe, in der wir die Softwarespezifikation erstellen mussten. Dabei haben wir uns an dem 4+1-Sichten Modell orientiert.
-Das GUI-Mockup ist am Ende als PDF zu finden.
+Das [GUI-Mockup](#GUI-Mockup) ist am Ende als PDF zu finden.
 
 ## User-Stories
 
