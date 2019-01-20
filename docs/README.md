@@ -19,7 +19,7 @@
 ## Prozesssicht
 
 ### Aktivitätsdiagramme
-In diesem Abschnitt sind die Aktivitätsdiagramme zu den komplexeren Use-Cases des UseCase Diagramms.  
+In diesem Abschnitt sind die Aktivitätsdiagramme zu den komplexeren [Use-Cases](#UseCase Diagramme) des UseCase Diagramms.  
 ![MainClient](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/AktivitaetFindMe/MainClientKommunikation.svg)
 Das Diagramm _Main Client Kommunikation_ zeigt eine normale Benutzung des Programmes bzw. der Webseite. Dabei wird von dem Start des Programmes bzw. dem Aufrufen der Webseite als Startpunkt ausgegangen.
 Daher fängt das Diagramm mit dem Anmelden bzw. der Profilerstellung an. Die Vorgänge dazu sind im folgenden weiter ausgeführt.
