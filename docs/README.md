@@ -53,3 +53,7 @@ oder direkt nach passenden Benutzern suchen. Danach erstellt das System die pass
 
 In diesem Abschnitt ist das GUI-Mockup zu dem Programm bzw. der Webseite find.me zu sehen. Es ist für die Webseite konzipiert worden, kann aber auch mit kleinen Veränderungen so für Mobilgeräte übernommen werden.
 Diese Veränderungen sind z.B. das Anpassen der Breite des "Inhaltsstreifens" und das Ändern der Indexseite der Webseite, sodass diese an das Konzept von Mobilgeräten angepasst wird.
+
+'''pdf
+	https://agrellmann.github.io/SE-Softwarespezifikation/FindMeGui/FindMeGui.pdf
+'''
