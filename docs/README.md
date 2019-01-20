@@ -3,7 +3,7 @@
 ## User-Stories
 
 In diesem Abschnitt stehen die, aus dem Vorgabedokument extrahierten, User Stories und evtl. Akzeptanzkriterien.
-Die [Aktivitätsdiagramme](#Aktivitätsdiagramme) dazu sind im laufenden Dokument zu sehen.
+Die [Aktivitäts](#Aktivitätsdiagramme) und [UseCase](#UseCase-Diagramme)-Diagramme dazu sind im laufenden Dokument zu sehen.
 
 [User Stories](UserStories.md ':include')
 
@@ -11,15 +11,15 @@ Die [Aktivitätsdiagramme](#Aktivitätsdiagramme) dazu sind im laufenden Dokumen
 
 ### UseCase-Diagramme
 In diesem Abschnitt sind die UseCase-Diagramme zu den [User-Stories](#User-Stories). Aufgeteilt sind diese in einer Gesamtübersicht und den einzelen UseCases zur Kommunikation, dem Suchen, den Adminvorgängen und den Fake-User-Vorgängen.
-![UseCase Gesamt](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/UseCaseFindMe/UseCaseGesamt.svg)
+![UseCase Gesamt](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/UseCaseFindMe/UseCaseGesamt.svg)  
 Das Diagramm _Gesamt_ ist die Übersicht über die Vererbungen der Akteure (Admin und Fake-User erben von dem normalen User) und die UseCase-Gruppen die dazu gehören. Diese sind im Folgenden weiter aufgeführt.
-![UseCase Kommunikation](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/UseCaseFindMe/UseCaseKommunikation.svg)
+![UseCase Kommunikation](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/UseCaseFindMe/UseCaseKommunikation.svg)  
 Das Diagramm _Kommunikationsvorgänge_ zeigt die UseCases, die zur Kommunikation der User gehört. Dazu zählen z.B. Schreiben und Lesen von Nachrichten oder auch Freundschftsanfragen.
-![UseCase Suchen](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/UseCaseFindMe/UseCaseSuchen.svg)
+![UseCase Suchen](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/UseCaseFindMe/UseCaseSuchen.svg)  
 Das Diagramm _Suchvorgänge_ zeigt die UseCases, die zum Suchen von passenden Benutzern gehören. Dafür müssen die eigenen Präferenzen angegeben werden und können danach im gesamten oder nur teilweise gesucht und die gefundenen Benutzer angesehen werden.
-![UseCase Admin](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/UseCaseFindMe/UseCaseAdmin.svg)
+![UseCase Admin](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/UseCaseFindMe/UseCaseAdmin.svg)  
 Das Diagramm _Adminvorgänge_ zeigt die Zusatzfunktionen, die Admins über normale User haben. Diese beschränken sich bisher auf das Auflisten gemeldeter Nutzer und das löschen dieser.
-![UseCase Fake-User](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/UseCaseFindMe/UseCaseFake-User.svg)
+![UseCase Fake-User](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/UseCaseFindMe/UseCaseFake-User.svg)  
 Das Diagramm _Fake-User-Vorgänge_ zeigt die Zusatzfunktionen, die ein Fake-User über einen normalen Benutzer besitzt. Dieser kann mehrere Profile mit einem Benutzer haben und verwalten und damit wie mit normalen Profilen umgehen.
 
 ## Logische Sicht
