@@ -1,7 +1,3 @@
-## User Stories
-
-In diesem Abschnitt stehen die, aus dem Vorgabedokument extrahierten, User Stories und evtl. Akzeptanzkriterien.
-
 ### Textform
 
 * Als Benutzer möchte ich auf der Plattform mit anderen Benutzern in Kontakt treten, um neue Bekanntschaften oder Freundschaften zu bilden.
