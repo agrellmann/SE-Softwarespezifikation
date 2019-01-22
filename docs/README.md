@@ -50,11 +50,14 @@ oder direkt nach passenden Benutzern suchen. Danach erstellt das System die pass
 ## Physikalische Sicht
 
 ### Verteilungsdiagramm
-![Verteilungsdiagramm](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/VerteilungFindMe.svg)
+![Verteilungsdiagramm](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/VerteilungFindMe.svg)  
+Das Verteilungsdiagramm zeiht die Verteilung der Systemkomponenten auf die verschiedenen Systeme. Da das System von mobilen Endgeräten und Webbrowsern zugänglich sein soll, gibt es zwei Versionen. Die eine ist die Webseite, die als HTML-Dokument über den 
+Webserver für die Webbrowser bereit gestellt wird. Dieser kommuniziert mit dem Applikationsserver, mit dem auch die mobilen Endgeräte kommunizieren. Die Applikation für diese beinhaltet die HTML-Datei in einer für die Geräte optimisierten Form und bietet 
+darüber den Zugang zu jeglichen Funktionen. Auf dem Applikationsserver läuft das Backend wie z.B. der Suchalgorithmus zum Matchen der Usern. Die Daten sind auf einem Datenbankserver gelagert, auf den der Webserver und der Applikationsserver Zugriff hat.
 
 ## GUI-Mockup
 
-In diesem Abschnitt ist das GUI-Mockup zu dem Programm bzw. der Webseite find.me zu sehen. Es ist für die Webseite konzipiert worden, kann aber auch mit kleinen Veränderungen so für Mobilgeräte übernommen werden.
+In diesem Abschnitt ist das GUI-Mockup zu dem Programm bzw. der Webseite find.me zu finden. Es ist für die Webseite konzipiert worden, kann aber auch mit kleinen Veränderungen so für Mobilgeräte übernommen werden.
 Diese Veränderungen sind z.B. das Anpassen der Breite des "Inhaltsstreifens" und das Ändern der Indexseite der Webseite, sodass diese an das Konzept von Mobilgeräten angepasst wird.
 
 [GUI-Mockup-PDF](https://agrellmann.github.io/SE-Softwarespezifikation/FindMeGui/FindMeGui.pdf)
