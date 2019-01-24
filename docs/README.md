@@ -28,7 +28,22 @@ Das Diagramm _Fake-User-Vorgänge_ zeigt die Zusatzfunktionen, die ein Fake-User
 ## Logische Sicht
 
 ### Klassendiagramm
-![Klassendiagramm](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/KlassenFindMe.svg)
+In diesem Klassendiagramm sieht man die Datenkapselung der Daten vom Benutzer,Fake-Benutzer und Admin. 
+![Klassendiagramm](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/KlassenDiagrammFindMe.svg)
+Wie im Diagramm zu sehen erben Admin und Fake-Benutzer vom Benutzer da beide nur mehr Funktionen haben als ein Benutzer aber ansonsten gleich aufgebaut sind. und jede Nachricht beihaltet eine Nachricht, einen Sender und einen Empfänger. Diese Nachrichten landen in der Benutzer-Mailbox von jedem Benutzer
+
+### SequenzDiagramm
+Im folgenden sind zwei Sequenzdiagramme die den Ablauf einer Freundschaftanfrage zeigt und den Austausch von Nachrichten zwischen zwei Benutzern. Beide Funktionen sind in dem [UseCase-Diagramme](#UseCase-Diagramme) bereits gezeigt worden. 
+![SeqAnfrage](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/SequenzDiagrammFindMeAnfrage.svg)
+Dieses Diagramm zeigt den Vorgang einer Freundschaftanfrage. Dazu werden die Präferenzen von zwei Benutzern genutzt damit ein Benutzer den anderen in einer Suche finden kann. Benutzer A kann eine Freundschaftanfrage schicken und auf eine Antwort warten.
+![SeqMail](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/SequenzDiagrammFindMeMails.svg)
+Nachdem der Nutzer jemanden in seine Freundesliste hinzugefügt hat kann dieser z.B. mit der Person eine Unterhaltung führen.
+Diesen Vorgang sind man in diesem Diagramm Benutzer A schreibt eine Nachricht die von seiner Mailbox in die Mailbox von Person B gesendet wird. Benutzer B kann nun die Nachricht lesen und antworten.
+
+### Kommunikationsdiagramm
+Im folgenden ist ein Diagramm das einmal den Kommunikationsvorgang zeigt der abläuft wenn ein Benutzer gemeldet wird.
+![Kommunikationsdiagramm](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/KommunikationsDiagrammFindMe.svg)
+Der Benutzer A meldet einen Benutzer nachdem dieser sich unangebracht geäußert hat. Ein Admin löscht daraufhin Benutzer B.
 
 ## Prozesssicht
 
@@ -46,6 +61,16 @@ Danach müssen die Profilinfos angegeben und verifiziert werden. Wenn diese veri
 ![Vorgeschlagende Benutzerliste ansehen](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/AktivitaetFindMe/vorgeschlagendeBenutzerlisteAnsehen.svg)
 Das Diagramm _Vorgeschlagende Benutzerliste ansehen_ zeigt die Vorgänge, die zum Ansehen der Liste mit den vorgechlagenden Benutzern, nötig sind. Dabei kann man entweder nach einzelnen Präferenzen suchen (Präferenzen auswählen) 
 oder direkt nach passenden Benutzern suchen. Danach erstellt das System die passende Benutzerliste und sendet diese zurück zum User, der sich diese ansehen kann und weitere Aktionen, wie Löschen oder Freundesanfrage, einleitet.
+
+## Implementierungssicht
+
+### Komponentendiagramm
+![Komponentendiagramm](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/KomponentenDiagrammFindMe.svg)
+Das Komponentendiagramm zeigt welche Komponente von welcher Komponenten ein Interface benötigt und kriegt.
+
+## Paketdiagramm
+![Paketdiagramm](https://agrellmann.github.io/SE-Softwarespezifikation/Diagramme/PaketDiagrammFindMe.svg)
+Das Diagramm zeigt in Paketen auf wo was von den [UseCase-Diagramme](#UseCase-Diagramme) sich befindet.
 
 ## Physikalische Sicht
 
